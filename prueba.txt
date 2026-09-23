@@ -1,0 +1,55 @@
+nombre = "Jose"
+edad = 25
+correo = usuario#dominio.com    
+c(3,3)
+c))
+print()
+#hjbg
+132alkdjf = 2
+
+var = [80**m]
+funtion
+function  (
+function(
+suma()
+
+===
+==
+=
+
+
+if 
+for 
+
+ifi
+forfor
+x='dsfdf'
+
+3x
+if)(
+#$#
+c = 'dd'
+
+'
+"
+
+x <= 5
+x < = 5
+a <- 10
+b == = 5
+c = = 5
+x++
+''
+123.456
+0.001
+.500
+100.
+12.34.56
+10a'''
+
+if_variable = 10
+formatted = TRUE
+length_of_array = 5
+c_variable = 1
+function_test()
+if(x > 0)
